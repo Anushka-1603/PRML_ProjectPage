@@ -1,4 +1,5 @@
 body{
+    background-color: rgb(236, 232, 202);
     font-family: 'Courier New', Courier;
     padding: 4rem;
     font-size: 1.25rem;
@@ -33,8 +34,12 @@ body{
 }
 
 .img2{
-    width: 60%
+    justify-content: center;
+    margin-left: 180px;
+    width: 60%;
+    display: block;
 }
+
 
 .video{
     margin-left: 45px;
@@ -54,6 +59,3 @@ body{
     margin-left: 100px;
 }
 
-.team{
-    margin-left: 100px;
-}
